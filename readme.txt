@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 在分支上修改readme文件
+Creating a new branch is quick AND simple.
